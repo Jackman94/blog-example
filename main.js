@@ -2,7 +2,7 @@
 
 var model = {
     questions:[
-        {question:"Как дела?" , answer:false },
+        {question:"Как дела? yopta" , answer:false },
         {question:"Ты Адекватный?" , answer:false },
         {question:"Почему?" , answer:false },
         {question:"Вобще не знаю что спросить" , answer:false },
